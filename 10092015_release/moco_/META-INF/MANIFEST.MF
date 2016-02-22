@@ -1,0 +1,120 @@
+Manifest-Version: 1.0
+Class-Path: 3D_Blob_Segmentation-2-1.0.0.jar 3D_Objects_Counter-2-1.0.
+ 0.jar 3D_Viewer-3-1.0.0.jar Algorithm_Launcher-1.0.0.jar AnalyzeSkele
+ ton_-2-1.0.0.jar Analyze_Reader_Writer-2-1.0.0.jar Anisotropic_Diffus
+ ion_2D-2-1.0.0.jar Archipelago_Plugins-0-1.0.0.jar Arrow_-2-1.0.0.jar
+  Auto_Threshold-1-1.0.0.jar BalloonSegmentation_-2-1.0.0.jar BeanShel
+ l_Interpreter-2-1.0.0.jar Bug_Submitter-2-1.0.0.jar CLI_-2-1.0.0.jar 
+ CPU_Meter-2-1.0.0.jar Calculator_Plus-2-1.0.0.jar Cell_Counter-2-1.0.
+ 0.jar Clojure_Interpreter-2-1.0.0.jar Colocalisation_Analysis-2-1.0.0
+ .jar Color_Histogram-2-1.0.0.jar Color_Inspector_3D-2-1.0.0.jar Colou
+ r_Deconvolution-2-1.0.0.jar CorrectBleach_-2-1.0.0.jar Descriptor_bas
+ ed_registration-2-1.0.0.jar Dichromacy_-2-1.0.0.jar Differentials_-2-
+ 1.0.0.jar Directionality_-2-1.0.0.jar Extended_Depth_Field-2-1.0.0.ja
+ r FS_Align_TrakEM2-2-1.0.0.jar FeatureJ_-2-1.0.0.jar Feature_Detectio
+ n-2-1.0.0.jar Fiji_Archipelago-2-1.0.0.jar Fiji_Developer-2-1.0.0.jar
+  Fiji_Package_Maker-2-1.0.0.jar Fiji_Plugins-3-1.0.0.jar Fiji_Updater
+ -1.0.0.jar FlowJ_-1-1.0.0.jar Graph_Cut-1-1.0.0.jar Gray_Morphology-2
+ -1.0.0.jar H5J_Loader_Plugin-1-1.0.0.jar Helmholtz_Analysis-2-1.0.0.j
+ ar IJ_Robot-2-1.0.0.jar IO_-2-1.0.0.jar Image_5D-1-1.0.0.jar Image_Ex
+ pression_Parser-3-1.0.0.jar Interactive_3D_Surface_Plot-2-1.0.0.jar I
+ soData_Classifier-2-1.0.0.jar JLargeArrays-1-1.0.0.jar JRuby_Interpre
+ ter-2-1.0.0.jar JTransforms-3-1.0.0.jar JWlz-1-1.0.0.jar Javascript_-
+ 2-1.0.0.jar Jython_Interpreter-2-1.0.0.jar Kuwahara_Filter-2-1.0.0.ja
+ r LSM_Reader-4-1.0.0.jar LSM_Toolbox-4-1.0.0.jar Lasso_and_Blow_Tool-
+ 2-1.0.0.jar Linear_Kuwahara-2-1.0.0.jar LocalThickness_-3-1.0.0.jar M
+ Track2_-2-1.0.0.jar MTrackJ_-1-1.0.0.jar M_I_P-2-1.0.0.jar Manual_Tra
+ cking-2-1.0.0.jar MosaicJ_-2-1.0.0.jar Multi_Kymograph-2-1.0.0.jar PI
+ V_-1.0.0.jar PIV_analyser-1-1.0.0.jar PointPicker_-2-1.0.0.jar QuickP
+ ALM_-1-1.0.0.jar RATS_-2-1.0.0.jar RandomJ_-2-1.0.0.jar Reconstruct_R
+ eader-2-1.0.0.jar Refresh_Javas-2-1.0.0.jar SPIM_Opener-2-1.0.0.jar S
+ PIM_Registration-2-1.0.0.jar Samples_-2-1.0.0.jar Series_Labeler-2-1.
+ 0.0.jar SheppLogan_-2-1.0.0.jar Sholl_Analysis-3-1.0.0.jar Simple_Neu
+ rite_Tracer-2-1.0.0.jar Siox_Segmentation-1-1.0.0.jar Skeletonize3D_-
+ 1-1.0.0.jar Snakuscule_-2-1.0.0.jar SplineDeformationGenerator_-2-1.0
+ .0.jar StackReg_-2-1.0.0.jar Stack_Manipulation-2-1.0.0.jar Statistic
+ al_Region_Merging-2-1.0.0.jar Stitching_-3-1.0.0.jar Sync_Win-1-1.0.0
+ .jar T2-NIT-1-1.0.0.jar T2-TreelineGraph-1-1.0.0.jar Thread_Killer-2-
+ 1.0.0.jar Time_Lapse-2-1.0.0.jar Time_Stamper-2-1.0.0.jar ToAST_-25-1
+ .0.0.jar TopoJ_-2-1.0.0.jar TrackMate_-2-1.0.0.jar Trainable_Segmenta
+ tion-2-1.0.0.jar TrakEM2_-1-1.0.0.jar TrakEM2_Archipelago-2-1.0.0.jar
+  TransformJ_-4-1.0.0.jar TurboReg_-2-1.0.0.jar UnwarpJ_-2-1.0.0.jar V
+ IB-lib-2-1.0.0.jar VIB_-2-1.0.0.jar Vaa3d_Reader-2-1.0.0.jar Vaa3d_Wr
+ iter-1-1.0.0.jar VectorString-1-1.0.0.jar Video_Editing-2-1.0.0.jar V
+ iew5D_-1-1.0.0.jar Volume_Calculator-1-1.0.0.jar Volume_Viewer-2-1.0.
+ 0.jar ant-1.0.0.jar ant-junit-1.0.0.jar ant-launcher-1.0.0.jar ant-no
+ deps-1.0.0.jar args4j-2-1.0.0.jar asm-4-1.0.0.jar asm-analysis-4-1.0.
+ 0.jar asm-commons-4-1.0.0.jar asm-tree-4-1.0.0.jar asm-util-4-1.0.0.j
+ ar autocomplete-2-1.0.0.jar bUnwarpJ_-2-1.0.0.jar base64-2-1.0.0.jar 
+ batik-1-1.0.0.jar bcmail-jdk14-138-1.0.0.jar bcprov-jdk14-138-1.0.0.j
+ ar bigdataviewer-core-1-1.0.0.jar bigdataviewer_fiji-1-1.0.0.jar bigw
+ arp_fiji-1-1.0.0.jar bio-formats_plugins-5-1.0.0.jar blockmatching_-2
+ -1.0.0.jar bsh-2-1.0.0.jar bytelist-1-1.0.0.jar clojure-1-1.0.0.jar c
+ ommons-codec-1-1.0.0.jar commons-lang3-3-1.0.0.jar commons-logging-1-
+ 1.0.0.jar commons-math3-3-1.0.0.jar dnsns-1.0.0.jar ejml-0-1.0.0.jar 
+ eventbus-1-1.0.0.jar fake-2-1.0.0.jar ffmpeg-2-1.0.0.jar ffmpeg-2-1-1
+ .0.0.jar ffmpeg-2-2-1.0.0.jar ffmpeg-2-3-1.0.0.jar ffmpeg-2-4-1.0.0.j
+ ar ffmpeg-2-5-1.0.0.jar ffmpeg-2-6-1.0.0.jar ffmpeg-2-7-1.0.0.jar fij
+ i-compat-2-1.0.0.jar fiji-lib-2-1.0.0.jar fiji-scripting-2-1.0.0.jar 
+ formats-api-5-1.0.0.jar formats-bsd-5-1.0.0.jar formats-common-5-1.0.
+ 0.jar formats-gpl-5-1.0.0.jar gentyref-1-1.0.0.jar groovy-2-1.0.0.jar
+  gson-2-1.0.0.jar guava-17-1.0.0.jar ij-1-1.0.0.jar ij-ImageIO_-1.0.0
+ .jar ij1-patcher-0-1.0.0.jar imagej-2-1.0.0.jar imagej-common-0-1.0.0
+ .jar imagej-deprecated-0-1.0.0.jar imagej-launcher-3-1.0.0.jar imagej
+ -launcher-3-1-1.0.0.jar imagej-legacy-0-1.0.0.jar imagej-ops-0-1.0.0.
+ jar imagej-plugins-commands-0-1.0.0.jar imagej-plugins-tools-0-1.0.0.
+ jar imagej-plugins-uploader-ssh-0-1.0.0.jar imagej-plugins-uploader-w
+ ebdav-0-1.0.0.jar imagej-scripting-0-1.0.0.jar imagej-ui-awt-0-1.0.0.
+ jar imagej-ui-swing-0-1.0.0.jar imagej-updater-0-1.0.0.jar imagescien
+ ce-3-1.0.0.jar imageware-2-1.0.0.jar imglib2-2-1.0.0.jar imglib2-algo
+ rithm-0-1.0.0.jar imglib2-algorithm-fft-0-1.0.0.jar imglib2-algorithm
+ -gpl-0-1.0.0.jar imglib2-ij-2-1.0.0.jar imglib2-realtransform-2-1.0.0
+ .jar imglib2-roi-0-1.0.0.jar imglib2-ui-2-1.0.0.jar invokebinder-1-1.
+ 0.0.jar itext-2-1.0.0.jar itextpdf-5-1.0.0.jar j3dcore-1.0.0.jar j3du
+ tils-1.0.0.jar jacl-1.0.0.jar jai-codec-1-1.0.0.jar jai-core-1-1.0.0.
+ jar jai_imageio-5-1.0.0.jar jama-1-1.0.0.jar java-cup-0-1.0.0.jar jav
+ ac-1-1.0.0.jar javacpp-0-1.0.0.jar javassist-3-1.0.0.jar jcodings-1-1
+ .0.0.jar jcommon-1-1.0.0.jar jdatepicker-1-1.0.0.jar jdom2-2-1.0.0.ja
+ r jep-2-1.0.0.jar jffi-1-1.0.0.jar jffi-1-1-1.0.0.jar jfreechart-1-1.
+ 0.0.jar jgoodies-common-1-1.0.0.jar jgoodies-forms-1-1.0.0.jar jgraph
+ t-0-1.0.0.jar jgraphx-1-1.0.0.jar jhdf5-14-1.0.0.jar jhotdraw-7-1.0.0
+ .jar jitk-tps-1-1.0.0.jar jna-3-1.0.0.jar jnr-constants-0-1.0.0.jar j
+ nr-enxio-0-1.0.0.jar jnr-ffi-1-1.0.0.jar jnr-netdb-1-1.0.0.jar jnr-po
+ six-3-1.0.0.jar jnr-unixsocket-0-1.0.0.jar jnr-x86asm-1-1.0.0.jar jod
+ a-time-2-1.0.0.jar joni-2-1.0.0.jar jpedalSTD-2-1.0.0.jar jruby-core-
+ 1-1.0.0.jar jruby-stdlib-1-1.0.0.jar js-1.0.0.jar jsch-0-1.0.0.jar jy
+ thon-shaded-2-1.0.0.jar jzlib-1-1.0.0.jar kryo-2-1.0.0.jar languagesu
+ pport-2-1.0.0.jar legacy-imglib1-1-1.0.0.jar level_sets-1-1.0.0.jar l
+ ocaledata-1.0.0.jar log4j-1-1.0.0.jar logback-classic-1-1.0.0.jar log
+ back-core-1-1.0.0.jar mapdb-1-1.0.0.jar markdownj-0-1.0.0.jar mdbtool
+ s-java-5-1.0.0.jar metadata-extractor-2-1.0.0.jar metakit-5-1.0.0.jar
+  miglayout-3-1.0.0.jar mij-1-1.0.0.jar mines-jtk-20100113-1.0.0.jar m
+ inimaven-2-1.0.0.jar minlog-1-1.0.0.jar moco_-1.0.0.jar mpicbg-1-1.0.
+ 0.jar mpicbg-trakem2-1-1.0.0.jar mpicbg_-1-1.0.0.jar nailgun-server-0
+ -1.0.0.jar native-lib-loader-2-1.0.0.jar netcdf-4-1.0.0.jar object-in
+ spector-0-1.0.0.jar objenesis-2-1.0.0.jar ome-poi-5-1.0.0.jar ome-xml
+ -5-1.0.0.jar opencsv-2-1.0.0.jar options-1-1.0.0.jar pal-optimization
+ -2-1.0.0.jar panorama_-3-1.0.0.jar pentaho-package-manager-1-1.0.0.ja
+ r perf4j-0-1.0.0.jar plugins-1.0.0.jar postgresql-8-1.0.0.jar registe
+ r_virtual_stack_slices-2-1.0.0.jar registration_3d-2-1.0.0.jar rhino-
+ 1-1.0.0.jar rsyntaxtextarea-2-1.0.0.jar scifio-0-1.0.0.jar scifio-bf-
+ compat-2-1.0.0.jar scifio-cli-0-1.0.0.jar scifio-hdf5-0-1.0.0.jar sci
+ fio-jai-imageio-1-1.0.0.jar scifio-lifesci-0-1.0.0.jar scifio-ome-xml
+ -0-1.0.0.jar scifio-tools-0-1.0.0.jar scijava-common-2-1.0.0.jar scij
+ ava-config-2-1.0.0.jar scijava-expression-parser-2-1.0.0.jar scijava-
+ plugins-commands-0-1.0.0.jar scijava-plugins-platforms-0-1.0.0.jar sc
+ ijava-plugins-text-markdown-0-1.0.0.jar scijava-plugins-text-plain-0-
+ 1.0.0.jar scijava-ui-awt-0-1.0.0.jar scijava-ui-swing-0-1.0.0.jar scr
+ ipting-beanshell-0-1.0.0.jar scripting-clojure-0-1.0.0.jar scripting-
+ groovy-0-1.0.0.jar scripting-java-0-1.0.0.jar scripting-javascript-0-
+ 1.0.0.jar scripting-jruby-0-1.0.0.jar scripting-jython-0-1.0.0.jar sl
+ f4j-api-1-1.0.0.jar snakeyaml-1-1.0.0.jar specification-5-1.0.0.jar s
+ pim_data-1-1.0.0.jar sunjce_provider-1.0.0.jar swing-checkbox-tree-1-
+ 1.0.0.jar tools-1-1.0.0.jar trakem2_tps-1-1.0.0.jar trove4j-3-1.0.0.j
+ ar turbojpeg-5-1.0.0.jar udunits-4-1.0.0.jar vecmath-1.0.0.jar wavele
+ ts-2-1.0.0.jar weave_jy2java-2-1.0.0.jar weka-dev-3-1.0.0.jar xercesI
+ mpl-2-1.0.0.jar xml-apis-1-1.0.0.jar xmpcore-5-1.0.0.jar yecht-1-1.0.
+ 0.jar z_spacing-0-1.0.0.jar
+Created-By: MiniMaven
+Main-Class: moco_
+
